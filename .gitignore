@@ -1,0 +1,9 @@
+main
+backend_project
+backend_project.exe
+
+.env
+
+.idea/
+
+.DS_Store

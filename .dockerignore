@@ -1,0 +1,15 @@
+.git
+
+Dockerfile
+docker-compose.yml
+
+.env
+README.md
+
+vendor/
+
+.idea/
+
+main
+backend_project
+backend_project.exe
